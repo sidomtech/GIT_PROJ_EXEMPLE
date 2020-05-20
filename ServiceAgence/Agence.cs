@@ -18,7 +18,7 @@ namespace ServiceAgence
         {
             ResultatListeBiensImmobiliers resultat = new ResultatListeBiensImmobiliers();
             // COM DRO avant remontee qsdsqd
-            //
+            // COM DRO avant remontee 002
             // Chargement des paramètres
             int? page = null, nbBiens = null;
             if (parametres.Length > 0) page = parametres[0];
