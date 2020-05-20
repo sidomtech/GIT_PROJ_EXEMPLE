@@ -21,6 +21,7 @@ namespace ServiceAgence
             // COM DRO avant remontee 002
             // COM DRO avant remontee 003
             // COM DRO avant remontee 004
+			// COM DRO avant remontee 005 - othe dir GIT
             // Chargement des paramètres
             int? page = null, nbBiens = null;
             if (parametres.Length > 0) page = parametres[0];
