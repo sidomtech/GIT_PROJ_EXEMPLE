@@ -1,0 +1,67 @@
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.exe.config
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.exe
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\MainWindow.baml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\MainWindow.g.cs
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\App.g.cs
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence_MarkupCompile.cache
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.g.resources
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.Properties.Resources.resources
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.csproj.GenerateResource.Cache
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.exe
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence_MarkupCompile.lref
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\App.baml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\FiltersWindow.g.cs
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\FiltersWindow.baml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\AddEditWindow.g.cs
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\AddEditWindow.baml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\Controls\ProgressRing.g.cs
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\Controls\ProgressRing.baml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.exe.config
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.exe
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.pdb
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.csprojAssemblyReference.cache
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\AddEditWindow.g.cs
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\Controls\ProgressRing.g.cs
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\FiltersWindow.g.cs
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\MainWindow.g.cs
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\App.g.cs
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence_MarkupCompile.cache
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence_MarkupCompile.lref
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\App.baml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\AddEditWindow.baml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\Controls\ProgressRing.baml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\FiltersWindow.baml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\MainWindow.baml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.g.resources
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.Properties.Resources.resources
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.csproj.GenerateResource.cache
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.exe
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.pdb
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\AddEditWindow.g.cs
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\Controls\ProgressRing.g.cs
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\FiltersWindow.g.cs
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\MainWindow.g.cs
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\App.g.cs
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence_MarkupCompile.cache
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence_MarkupCompile.lref
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.exe
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.pdb
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.exe.config
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.exe
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\bin\Debug\ClientServiceAgence.pdb
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\App.baml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\AddEditWindow.baml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\Controls\ProgressRing.baml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\FiltersWindow.baml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\MainWindow.baml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.g.resources
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.Properties.Resources.resources
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.csproj.GenerateResource.cache
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ClientServiceAgence\obj\Debug\ClientServiceAgence.csprojAssemblyReference.cache
