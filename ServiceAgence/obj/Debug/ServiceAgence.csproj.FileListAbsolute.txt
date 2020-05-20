@@ -1,0 +1,90 @@
+c:\users\loïc\documents\visual studio 2013\Projects\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+c:\users\loïc\documents\visual studio 2013\Projects\ServiceAgence\bin\Debug\ServiceAgence.dll
+c:\users\loïc\documents\visual studio 2013\Projects\ServiceAgence\bin\Debug\ServiceAgence.pdb
+c:\users\loïc\documents\visual studio 2013\Projects\ServiceAgence\obj\Debug\ServiceAgence.csprojResolveAssemblyReference.cache
+c:\users\loïc\documents\visual studio 2013\Projects\ServiceAgence\obj\Debug\ServiceAgence.dll
+c:\users\loïc\documents\visual studio 2013\Projects\ServiceAgence\obj\Debug\ServiceAgence.pdb
+\\192.168.1.253\Volume_1\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+\\192.168.1.253\Volume_1\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.dll
+\\192.168.1.253\Volume_1\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.pdb
+\\192.168.1.253\Volume_1\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.csprojResolveAssemblyReference.cache
+\\192.168.1.253\Volume_1\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.dll
+\\192.168.1.253\Volume_1\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.pdb
+C:\tmp\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+C:\tmp\ServiceAgence\bin\Debug\ServiceAgence.dll
+C:\tmp\ServiceAgence\bin\Debug\ServiceAgence.pdb
+C:\tmp\ServiceAgence\obj\Debug\ServiceAgence.csprojResolveAssemblyReference.cache
+C:\tmp\ServiceAgence\obj\Debug\ServiceAgence.dll
+C:\tmp\ServiceAgence\obj\Debug\ServiceAgence.pdb
+C:\tmp\Projet Agence\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+C:\tmp\Projet Agence\ServiceAgence\bin\Debug\ServiceAgence.dll
+C:\tmp\Projet Agence\ServiceAgence\bin\Debug\ServiceAgence.pdb
+C:\tmp\Projet Agence\ServiceAgence\obj\Debug\ServiceAgence.csprojResolveAssemblyReference.cache
+C:\tmp\Projet Agence\ServiceAgence\obj\Debug\ServiceAgence.dll
+C:\tmp\Projet Agence\ServiceAgence\obj\Debug\ServiceAgence.pdb
+C:\tmp\Projet Agence\ServiceAgence\bin\Debug\System.Data.SQLite.dll
+D:\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+D:\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.dll
+D:\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.pdb
+D:\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\System.Data.SQLite.dll
+D:\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.dll
+D:\Oyosoft\Livres\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\ServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\System.Data.SQLite.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.csprojResolveAssemblyReference.cache
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\obj\Debug\ServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\EntityFramework.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\EntityFramework.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Debug\System.Data.SQLite.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.csprojResolveAssemblyReference.cache
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.dll
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.pdb
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.dll
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.dll
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.xml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.xml
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.csproj.CopyComplete
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.dll
+D:\WORKSHOP\C#\WCF\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.pdb
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.dll.config
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.dll
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\ServiceAgence.pdb
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.dll
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.dll
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.xml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\bin\Debug\System.Data.SQLite.xml
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.csproj.CopyComplete
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.dll
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.pdb
+D:\WORKSHOP\FORMATION\C#\Windows Communication Foundation (WCF)\Ressources\Projet exemple\ServiceAgence\obj\Debug\ServiceAgence.csprojAssemblyReference.cache

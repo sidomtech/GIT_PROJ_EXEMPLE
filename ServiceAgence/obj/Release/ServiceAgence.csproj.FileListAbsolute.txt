@@ -1,0 +1,20 @@
+C:\tmp\ServiceAgence\bin\Release\ServiceAgence.dll.config
+C:\tmp\ServiceAgence\bin\Release\ServiceAgence.dll
+C:\tmp\ServiceAgence\bin\Release\ServiceAgence.pdb
+C:\tmp\ServiceAgence\obj\Release\ServiceAgence.csprojResolveAssemblyReference.cache
+C:\tmp\ServiceAgence\obj\Release\ServiceAgence.dll
+C:\tmp\ServiceAgence\obj\Release\ServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\ServiceAgence.dll.config
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\ServiceAgence.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\ServiceAgence.pdb
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\EntityFramework.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\System.Data.SQLite.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\EntityFramework.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\bin\Release\System.Data.SQLite.xml
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\obj\Release\ServiceAgence.csprojResolveAssemblyReference.cache
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\obj\Release\ServiceAgence.dll
+C:\Users\Loïc\Desktop\WCF - ENI\Projet VS\ServiceAgence\obj\Release\ServiceAgence.pdb
